@@ -1,6 +1,6 @@
 # Bookmarklet Test Page
 
-## Installation: Drag this link to your bookmarks bar:
+### Installation: Drag this link to your bookmarks bar:
 
  <!-- <a href="javascript:(function (){alert('Hello world')})();">Hello World</a> -->
 
