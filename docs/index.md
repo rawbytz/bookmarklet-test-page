@@ -1,5 +1,6 @@
 # Bookmarklet Test Page
 - a place for testing bookmarklets
+<!-- https://rawbytz.github.io/bookmarklet-test-page/ -->
 
 ### Installation: Drag the link below to your bookmarks bar:
 
